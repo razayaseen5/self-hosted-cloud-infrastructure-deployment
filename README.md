@@ -37,19 +37,19 @@ This infrastructure utilizes a reverse proxy to handle external DNS routing, SSL
 
 ### 1. Reverse Proxy Routing (Nginx Proxy Manager)
 Managing SSL certificates and routing traffic internally to Docker container endpoints.
-![Nginx Proxy Manager Dashboard](screenshots/Nginx.png)
+![Nginx Proxy Manager Dashboard](Screenshots/Nginx.png)
 
 ### 2. Edge Security & SSL Handshake (Cloudflare)
 Configured with Full (Strict) SSL/TLS encryption mode to ensure end-to-end transport security.
-![Cloudflare SSL Settings](screenshots/Cloudflare.png)
+![Cloudflare SSL Settings](Screenshots/Cloudflare.png)
 
 ### 3. Container Architecture Status (`docker ps`)
 Live verification of container stability and port mapping on the Ubuntu VPS.
-![Docker Containers Terminal](screenshots/CMD.png)
+![Docker Containers Terminal](Screenshots/CMD..png)
 
 ### 4. Workflow Automation Engine (n8n)
 Active backend automation workspace securely served via custom subdomain routing.
-![n8n Dashboard](screenshots/N8N.png)
+![n8n Dashboard](Screenshots/N8N.png)
 
 ---
 
