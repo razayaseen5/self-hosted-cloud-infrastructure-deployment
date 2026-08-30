@@ -55,4 +55,4 @@ Active backend automation workspace securely served via custom subdomain routing
 
 ## Author
 **Raza Yaseen**  
-Technical (AI/Software) Projects and BizOps Lead
+Technical (AI/Software) Projects and BizOps Lead.
